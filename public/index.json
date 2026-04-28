@@ -1,0 +1,4 @@
+{
+  "data_url": "https://a.api.rodoye.com/data.json",
+  "auth_device": "https://api.rodoye.com/heartbeat"
+}
